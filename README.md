@@ -35,6 +35,7 @@ THEN I am able to successfully create, update, and delete data in my database
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 
 
 ## Installation
@@ -62,3 +63,5 @@ Enter password if you have one
 `npm run seed`
 
 `node server.js`
+
+## Demo
